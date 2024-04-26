@@ -323,7 +323,7 @@ border: 1px solid gray;
   display: none;
 }
 
-@media screen and (min-width:1110px){
+@media screen and (min-width:1212px){
   .main{
     width: 1110px;
     height: 98vh;
