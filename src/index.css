@@ -462,6 +462,8 @@ border: 1px solid gray;
     position: relative;
     left: 10px;
     color: white;
+    bottom: 30px;
+   
   }
   .exit-button:hover{
     cursor: pointer;
